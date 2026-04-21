@@ -4,7 +4,7 @@
 "C3, C4",603,2,20pF,
 D1,603,1,LED,
 F1,1206,1,1A,
-J1,USB_C_Receptacle_G-Switch_16p,1,USB_C_Receptacle_USB2.0_16P,
+J1,USB_C_Receptacle_G-Switch_16p,1,USB_C_Receptacle_USB2.0_16P, C2988369
 J14,PinHeader_1x17_P2.54mm_Vertical,1,Conn_01x17_Pin,
 J3,PinHeader_1x20_P2.54mm_Vertical,1,Conn_01x20_Pin,
 R1,603,1,1k,
