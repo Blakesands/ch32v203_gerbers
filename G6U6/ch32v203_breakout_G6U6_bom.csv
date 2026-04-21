@@ -1,4 +1,4 @@
-﻿Designator,Footprint,Quantity,Value
+﻿Designator,Footprint,Quantity,Value, #LCSC Part
 "BT0, RST",SW_Push_3mm,2,SW_Push,
 "C2, C3",0805,2,10u,
 "C4, C5",0603,2,20p,
